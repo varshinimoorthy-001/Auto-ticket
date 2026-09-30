@@ -1,0 +1,24 @@
+
+The main script
+
+User creates Incident
+        ↓
+Flow Designer Trigger
+        ↓
+Read Short Description
+        ↓
+Identify Ticket Type
+        ↓
+IF / ELSE conditions
+        ↓
+Set Category
+        ↓
+Set Subcategory
+        ↓
+Assign Assignment Group
+        ↓
+Set Priority
+        ↓
+Update Incident
+        ↓
+Notify Assigned Team
